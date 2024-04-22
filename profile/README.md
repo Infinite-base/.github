@@ -2,33 +2,21 @@
 
 ![Infinite Base Logo]
 
-## Overview
+## About Infinite Base
 
-Infinite Base is a technology company focused on creating groundbreaking experiences at the intersection of AI, Web3, and gaming. Our flagship product, OurWays - Infinite Quests, is a revolutionary gaming platform that leverages Generative AI and blockchain technology to offer an ever-evolving, player-driven universe.
+Infinite Base is dedicated to exploring the frontiers of artificial intelligence to develop applications that not only solve real-world problems but also enhance user experiences in learning and daily activities. Our projects leverage cutting-edge technology to push the boundaries of what's possible with AI.
 
-## Table of Contents
+**Infinite Lingo**: AI-Powered Language Education
+Infinite Lingo is at the forefront of educational technology, employing AI to create a deeply personalized and dynamic learning environment. Here's what makes Infinite Lingo stand out:
 
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contribute](#contribute)
-- [License](#license)
-- [Contact](#contact)
+**Learning Agent**
+Interact with intelligent Learning Agent AI tutors tailored to deliver a personalized learning experience. These tutors adapt to individual learning styles and speeds, making language learning more effective and engaging.
 
-## Features
+**Adaptive Learning System
+**Using advanced algorithms, Infinite Lingo customizes educational content, ensuring that each user faces challenges suited to their current level and accelerates their learning curve.
 
-- **Generative AI**: Dynamic world-building and storytelling.
-- **Web3 Integration**: True ownership of in-game assets and characters.
-- **Social Gaming**: Multiplayer interaction and user-generated content.
-- **Cross-Platform**: Available on web and mobile.
-
-## Installation
-
-
-## Usage
-
-Please refer to our [Wiki](https://github.com/InfiniteBase/OurWays-InfiniteQuests/wiki) for detailed usage instructions and API documentation.
+**Rich Interactive Modules
+**The platform includes various interactive modules that reinforce learning through practical application, making complex language concepts easier to grasp and retain.
 
 ## Contribute
 
@@ -40,7 +28,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-- **Email**: 
-- **Website**:
-- **Discord**: 
-- **Twitter**:
+- **Email**: alex@infinitebase.ai
+- **Website**:www.infinitebase.ai
+- **Discord**: coming soon
+- **Twitter**: coming soon
